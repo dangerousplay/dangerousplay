@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dangerousplay
 
-![Twitter Follow](https://img.shields.io/twitter/follow/dangerousplayt?style=for-the-badge&logo=twitter)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dangerousplayt?style=for-the-badge&logo=twitter)](https://twitter.com/dangerousplayt)
 ![](https://dcbadge.vercel.app/api/shield/150056443393867776)
 
 # About Me
